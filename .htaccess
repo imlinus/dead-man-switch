@@ -1,0 +1,4 @@
+<Files cronjob.php>
+	order allow,deny
+	Deny from all
+</Files>
